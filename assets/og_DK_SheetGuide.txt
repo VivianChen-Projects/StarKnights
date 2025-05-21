@@ -1,0 +1,9 @@
+48x32 px tiles
+
+1st row = idle
+frame 1 = default
+frames 2-4 = bang chest
+
+2nd row = throw barrel down
+3rd row = pickup/throw barrel left
+4th row = pickup/throw barrel right

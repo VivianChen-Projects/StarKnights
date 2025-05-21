@@ -1,0 +1,14 @@
+16x16 px tiles
+
+1st and 2nd row = walk
+frame 1 = default / stand
+frames 2-4 = walking
+frame 5 = end walking (then back to standing)
+
+3rd row = climbing ladders
+frames 1-2 = default / climbing
+frames 3-7 = end climbing
+
+4th and 5th row = with hammer (hands up and hands down vers)
+frames 1-2 = standing
+frames 3-6 = walking

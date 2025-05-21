@@ -1,0 +1,8 @@
+16x16 px tiles
+
+1st row = right walking
+2nd row = left walking
+frames 1-2 = normal
+frames 3-4 = when player has hammer
+
+3rd row = when killed by hammer

@@ -1,0 +1,6 @@
+16x32 px tiles
+
+1st row = idle right
+2nd row = idle left
+frame 1 = default
+frames 2-3 = distress

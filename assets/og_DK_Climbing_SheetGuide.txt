@@ -1,0 +1,5 @@
+48x40 px tiles
+
+1st row = climbing normal
+2nd row = climbing with princess
+
